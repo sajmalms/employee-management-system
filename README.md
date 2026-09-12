@@ -19,8 +19,8 @@
 
 ## Screenshots
 
-(Add screenshots later)
+<img width="890" height="567" alt="Screenshot 2026-09-12 172549" src="https://github.com/user-attachments/assets/7cf8e242-9337-4a5b-b11d-dde19340a341" />
 
 ## Author
 
-Your Name
+Sajmal MS
