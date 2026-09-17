@@ -1,26 +1,33 @@
 # Employee Management System
 
+A simple employee management application for managing employee records efficiently.
+
+## Overview
+This project helps track employee information such as name, role, contact details, and department. It supports basic CRUD operations and provides a quick dashboard for employee counts.
+
 ## Features
+- Add employee
+- View employee list
+- Edit employee details
+- Delete employee
+- Search employee records
+- Employee count dashboard
 
-- Add Employee
-- View Employees
-- Edit Employee
-- Delete Employee
-- Search Employee
-- Employee Count Dashboard
-
-## Technologies
-
+## Tech Stack
 - PHP
 - MySQL
 - HTML
 - CSS
 - XAMPP
 
-## Screenshots
+## Setup
+1. Start Apache and MySQL in XAMPP.
+2. Create and import the required database.
+3. Update database connection settings if needed.
+4. Open the project in a browser.
 
-<img width="890" height="567" alt="Screenshot 2026-09-12 172549" src="https://github.com/user-attachments/assets/7cf8e242-9337-4a5b-b11d-dde19340a341" />
+## Project Use
+Use this application for managing staff records in a small office or academic project environment.
 
 ## Author
-
 Sajmal MS
